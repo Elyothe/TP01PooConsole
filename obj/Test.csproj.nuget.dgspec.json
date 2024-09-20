@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eliot\\OneDrive\\Bureau\\DIIAGE\\ConsoleTes\\ConsoleTes.csproj": {}
+    "C:\\Users\\eliot\\source\\repos\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eliot\\OneDrive\\Bureau\\DIIAGE\\ConsoleTes\\ConsoleTes.csproj": {
+    "C:\\Users\\eliot\\source\\repos\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eliot\\OneDrive\\Bureau\\DIIAGE\\ConsoleTes\\ConsoleTes.csproj",
-        "projectName": "ConsoleTes",
-        "projectPath": "C:\\Users\\eliot\\OneDrive\\Bureau\\DIIAGE\\ConsoleTes\\ConsoleTes.csproj",
+        "projectUniqueName": "C:\\Users\\eliot\\source\\repos\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\Users\\eliot\\source\\repos\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\eliot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eliot\\OneDrive\\Bureau\\DIIAGE\\ConsoleTes\\obj\\",
+        "outputPath": "C:\\Users\\eliot\\source\\repos\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eliot\\AppData\\Roaming\\NuGet\\NuGet.Config",

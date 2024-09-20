@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliot\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|c:\\users\\eliot\\source\\repos\\test\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|c:\\users\\eliot\\source\\repos\\test\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|c:\\users\\eliot\\source\\repos\\test\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|solutionrelative:emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|c:\\users\\eliot\\source\\repos\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|c:\\users\\eliot\\source\\repos\\test\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|solutionrelative:interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|c:\\users\\eliot\\source\\repos\\test\\uservip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|solutionrelative:uservip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|c:\\users\\eliot\\source\\repos\\test\\biblioth\u00E9que.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B076EA97-1CFF-40D9-99FA-E8D6DD63B2EB}|Test.csproj|solutionrelative:biblioth\u00E9que.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\Test\\Livre.cs",
+              "RelativeDocumentMoniker": "Livre.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\Test\\Livre.cs",
+              "RelativeToolTip": "Livre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:32:32.299Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\Test\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\Test\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAACyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:57:47.126Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emprunt.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\Test\\Emprunt.cs",
+              "RelativeDocumentMoniker": "Emprunt.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\Test\\Emprunt.cs",
+              "RelativeToolTip": "Emprunt.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:20:23.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\Test\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\Test\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "Interfaces\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:45:01.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\Test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwFsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:00:37.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserVIP.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\Test\\UserVIP.cs",
+              "RelativeDocumentMoniker": "UserVIP.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\Test\\UserVIP.cs",
+              "RelativeToolTip": "UserVIP.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:19:32.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Biblioth\u00E9que.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\Test\\Biblioth\u00E9que.cs",
+              "RelativeDocumentMoniker": "Biblioth\u00E9que.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\Test\\Biblioth\u00E9que.cs",
+              "RelativeToolTip": "Biblioth\u00E9que.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:53:10.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

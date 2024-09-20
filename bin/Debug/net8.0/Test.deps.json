@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "ConsoleTes/1.0.0": {
+      "Test/1.0.0": {
         "runtime": {
-          "ConsoleTes.dll": {}
+          "Test.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ConsoleTes/1.0.0": {
+    "Test/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
