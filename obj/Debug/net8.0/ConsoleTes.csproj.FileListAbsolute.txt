@@ -1,0 +1,14 @@
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\bin\Debug\net8.0\ConsoleTes.exe
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\bin\Debug\net8.0\ConsoleTes.deps.json
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\bin\Debug\net8.0\ConsoleTes.runtimeconfig.json
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\bin\Debug\net8.0\ConsoleTes.dll
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\bin\Debug\net8.0\ConsoleTes.pdb
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\ConsoleTes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\ConsoleTes.AssemblyInfoInputs.cache
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\ConsoleTes.AssemblyInfo.cs
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\ConsoleTes.csproj.CoreCompileInputs.cache
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\ConsoleTes.dll
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\refint\ConsoleTes.dll
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\ConsoleTes.pdb
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\ConsoleTes.genruntimeconfig.cache
+C:\Users\eliot\OneDrive\Bureau\DIIAGE\ConsoleTes\obj\Debug\net8.0\ref\ConsoleTes.dll
